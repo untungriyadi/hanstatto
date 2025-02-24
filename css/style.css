@@ -546,12 +546,12 @@ ul.dropdown-menu li {
   }
 }
 .bg-1 {
-  background: url("../images/bg/home-2.jpg") no-repeat 50% 50%;
+  background: url("../images/1.jpeg") no-repeat 50% 50%;
   background-size: cover;
 }
 
 .bg-2 {
-  background: url("../images/bg/home-5.jpg");
+  background: url("../images/3.jpeg");
   background-size: cover;
 }
 
@@ -612,7 +612,7 @@ ul.dropdown-menu li {
   top: 0px;
   width: 45%;
   min-height: 650px;
-  background: url("../images/about/home-8.jpg") no-repeat;
+  background: url("../images/1.jpeg") no-repeat;
   background-size: cover;
 }
 
@@ -641,7 +641,7 @@ ul.dropdown-menu li {
 }
 
 .bg-counter {
-  background: url("../images/bg/counter.jpg") no-repeat;
+  background: url("../images/2.jepg") no-repeat;
   background-size: cover;
 }
 
@@ -718,13 +718,13 @@ ul.dropdown-menu li {
 }
 
 .cta {
-  background: url("../images/bg/home-3.jpg") fixed 50% 50%;
+  background: url("../images/2.jpeg") fixed 50% 50%;
   background-size: cover;
   padding: 120px 0px;
 }
 
 .cta-block {
-  background: url("../images/bg/home-3.jpg") no-repeat;
+  background: url("../images/2.jpeg") no-repeat;
   background-size: cover;
 }
 
@@ -754,7 +754,7 @@ ul.dropdown-menu li {
 }
 
 .hero-img {
-  background: url("../images/bg/home-5.jpg");
+  background: url("../images/1.jpeg");
   position: absolute;
   content: "";
   background-size: cover;
